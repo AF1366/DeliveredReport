@@ -1,0 +1,9 @@
+D:\Projects\DeliveredReport\DeliveredReport\bin\Debug\DeliveredReport.exe.config
+D:\Projects\DeliveredReport\DeliveredReport\obj\Debug\DeliveredReport.csprojResolveAssemblyReference.cache
+D:\Projects\DeliveredReport\DeliveredReport\obj\Debug\DeliveredReport.Form1.resources
+D:\Projects\DeliveredReport\DeliveredReport\obj\Debug\DeliveredReport.Properties.Resources.resources
+D:\Projects\DeliveredReport\DeliveredReport\obj\Debug\DeliveredReport.csproj.GenerateResource.Cache
+D:\Projects\DeliveredReport\DeliveredReport\bin\Debug\DeliveredReport.exe
+D:\Projects\DeliveredReport\DeliveredReport\bin\Debug\DeliveredReport.pdb
+D:\Projects\DeliveredReport\DeliveredReport\obj\Debug\DeliveredReport.exe
+D:\Projects\DeliveredReport\DeliveredReport\obj\Debug\DeliveredReport.pdb
