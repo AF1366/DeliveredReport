@@ -135,11 +135,6 @@ namespace DeliveredReport
             lblAllPerson.Text = dtAll.AsEnumerable().GroupBy(r => r.Field<int>("StudentID")).Count().ToString();
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void btn2_Click(object sender, EventArgs e)
         {
             command = "";

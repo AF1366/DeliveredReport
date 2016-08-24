@@ -44,6 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class1.cs">
+      <CustomToolNamespace>hghfh</CustomToolNamespace>
+    </Compile>
     <Compile Include="clsDAL.cs" />
     <Compile Include="clsHelper.cs" />
     <Compile Include="clsVAL.cs" />
